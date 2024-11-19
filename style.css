@@ -2,6 +2,9 @@ body {
     color: white;
     background-color: black;
 }
+header{
+    border-bottom: solid 2px rgb( 42,122,228);
+}
 section {
     background:LightCoral	;
     padding-top: 80px;
