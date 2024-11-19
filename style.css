@@ -5,6 +5,7 @@ body {
 }
 header{
     border-bottom: solid 2px rgb( 165,42,42);
+    margin: 20px;
 }
 section {
     background:LightCoral	;
